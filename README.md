@@ -17,3 +17,4 @@ Deux projets : `frontoffice/` (patient) et `backoffice/` (médecin).
 3. Créer `app/Views/pages/ordonnances.php`
 4. Ajouter une ligne dans `app/routes.php`
 5. Ajouter un lien dans `app/Views/partials/sidebar.php`
+"# tache" 
